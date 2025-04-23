@@ -255,6 +255,9 @@ Eles estão armazenados na pasta `assets/` no repositório e organizados na orde
 ### Codificação da API Locação
 ![Tela da aplicação](/assets/10-codificando-locadora.png)
 
+### Testando a API Locação no Postman
+![Tela da aplicação](/assets/17-testes-da-api-com-postman.png)
+
 
 ### Processando a Fila Service Bus
 ![Tela da aplicação](/assets/11-preocessando-fila-service-bus.png)
